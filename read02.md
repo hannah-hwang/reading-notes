@@ -1,3 +1,5 @@
+# Read: 02 The Coder's Computer Notes
+
 ***Text Editors*** are software or website that allows you to write and manage text; helps you write code and build websites
  
   -name files appropriately by the file type ( .html, .css, etc)
