@@ -1,6 +1,6 @@
 # Read: 02 The Coder's Computer Notes
 
-***Text Editors*** are software or website that allows you to write and manage text; helps you write code and build websites
+***Text Editors*** are software programs or programs within a website that allows you to write and manage text. They help you write code and build websites.
  
   -name files appropriately by the file type ( .html, .css, etc)
 
@@ -14,10 +14,12 @@
 
 ***The Command Line*** or terminal is a text based interface in which you enter commands adn receive feedback in text form.
   
-  -within the terminal, there is a shell shows how the terminal will behave and look after running it
+  -within the terminal, there is a shell that shows how the terminal will behave and look after running it
 
 Shortcuts:
 - pwd - shows where you are
 - ls (list)
 - ns - shows a list with more information
 - cd → name of where i want to go
+
+☺︎☺︎☺︎
