@@ -33,3 +33,6 @@ For example:
 To create a ***link***, wrap the the name of link in brackets [ ], then wrap the URL in parentheses ( ).
 
 ☺︎☺︎☺︎
+
+* note 1
+* note 2
