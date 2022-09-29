@@ -1,7 +1,7 @@
 # My Reading Journal
 <sub>My <sup>reading journal</sup> for Code Fellows 102</sub>
 
-*Growth Mindset* to me is using criticism and inspiration to overcome challenges.
+🌱 *Growth Mindset* to me is using criticism and inspiration to overcome challenges.
 
 **3 Reminders for Myself to Stay in a _Growth Mindset_**
 1. Don't get overwhelmed by obstacles
@@ -14,3 +14,5 @@
 - [Class 2 Notes](https://hannah-hwang.github.io/reading-notes/read02)
 
 Link to my [GitHub](https://github.com/hannah-hwang)
+
+☺︎☺︎☺︎
