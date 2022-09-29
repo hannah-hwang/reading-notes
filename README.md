@@ -8,4 +8,9 @@
 2. Embrace challenges
 3. Don't ignore feedback
 
+## Notes
+
+- [Class 1 Notes](https://hannah-hwang.github.io/reading-notes/read01)
+- [Class 2 Notes](https://hannah-hwang.github.io/reading-notes/read02)
+
 Link to my [GitHub](https://github.com/hannah-hwang)
