@@ -1,6 +1,6 @@
 # My Reading Journal
 
-<sub>My <sup>reading journal</sup> for Code Fellows 102</sub>
+<sub>My <sup>reading journal</sup> for Code Fellows 201</sub>
 
 🌱 *Growth Mindset* to me is using criticism and inspiration to overcome challenges.
 
@@ -12,7 +12,7 @@
 
 ## Notes
 
-### Class 201
+### Code 201 Reading Notes
 
 - [Class 1 Notes]
 - [Class 2 Notes]
@@ -28,8 +28,9 @@
 - [Class 12 Notes]
 - [Class 13 Notes]
 - [Class 14 Notes]
+- [Class 15 Notes]
 
-### Class 102
+### Code 102 Reading Notes
 
 - [Class 1 Notes](https://hannah-hwang.github.io/reading-notes/read01)
 - [Class 2 Notes](https://hannah-hwang.github.io/reading-notes/read02)
