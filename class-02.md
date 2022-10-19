@@ -30,4 +30,4 @@
 1. An if statement checks a *condition* and if it evaluates to *true*, then the code block will execute.
 2. Using *else if* is a way to provide responses to extra choices/outcomes.
 3. 3 different types of comparison operators are === and !== which test if one value is identical or not to another, < and > which test if one value is less than or greater than another, and <= >= which test if one value is less than or equal to/greater than or equal to another.
-4. The difference between the logical operators && (AND) and || (OR) are that when chaining togther expressions using &&, all expressions need to be true in order for the whole expression to be true, while when using ||, at least one expression needs to be true in order for the whole expression to be true.
+4. The difference between the logical operators && (AND) and (||) (OR) are that when chaining togther expressions using &&, all expressions need to be true in order for the whole expression to be true, while when using (||), at least one expression needs to be true in order for the whole expression to be true.
