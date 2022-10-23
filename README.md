@@ -16,7 +16,7 @@
 
 - [Class 1 Notes](https://hannah-hwang.github.io/reading-notes/class-01)
 - [Class 2 Notes](https://hannah-hwang.github.io/reading-notes/class-02)
-- [Class 3 Notes]
+- [Class 3 Notes](https://hannah-hwang.github.io/reading-notes/class-03)
 - [Class 4 Notes]
 - [Class 5 Notes]
 - [Class 6 Notes]
