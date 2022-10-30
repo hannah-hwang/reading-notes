@@ -3,7 +3,7 @@
 ## HTML
 
 1. To create a basic link, we wrap text or content around a anchor tag (\<a>).
-2. Rhe href attribute contains the link or web address.
+2. The href attribute contains the link or web address.
 3. Some ways that we can ensure that links on our pages are accessible to all readers are by using clear link wording so that users know what the link will lead to, and by leaving clear signposts when linking to non-HTML resources.
 
 ## CSS
