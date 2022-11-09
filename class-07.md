@@ -1,4 +1,4 @@
-# Read: Class 07 Object=Oriented Programming, HTML Tables
+# Read: Class 07 Object, Oriented Programming, HTML Tables
 
 ## Domain Modeling
 
