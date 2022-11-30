@@ -26,7 +26,7 @@
 - [Class 10 Notes](https://hannah-hwang.github.io/reading-notes/class-10)
 - [Class 11 Notes](https://hannah-hwang.github.io/reading-notes/class-11)
 - [Class 12 Notes](https://hannah-hwang.github.io/reading-notes/class-12)
-- [Class 13 Notes]
+- [Class 13 Notes](https://hannah-hwang.github.io/reading-notes/class-13)
 - [Class 14 Notes]
 - [Class 15 Notes]
 
