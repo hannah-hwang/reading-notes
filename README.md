@@ -27,7 +27,8 @@
 - [Class 11 Notes](https://hannah-hwang.github.io/reading-notes/class-11)
 - [Class 12 Notes](https://hannah-hwang.github.io/reading-notes/class-12)
 - [Class 13 Notes](https://hannah-hwang.github.io/reading-notes/class-13)
-- [Class 14 Notes]
+- [Class 14 Notes](https://hannah-hwang.github.io/reading-notes/class-14)
+- [Class 14 Notes - Psychological Safety](https://hannah-hwang.github.io/reading-notes/class-14-psych-safety)
 - [Class 15 Notes]
 
 ### Code 102 Reading Notes
