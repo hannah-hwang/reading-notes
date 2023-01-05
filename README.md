@@ -10,9 +10,20 @@
 2. Embrace challenges
 3. Don't ignore feedback
 
-## Notes
+## Reading Notes
 
-### Code 201 Reading Notes
+### Code 102 - Intro to Software Development
+
+- [Class 1 Notes](https://hannah-hwang.github.io/reading-notes/read01)
+- [Class 2 Notes](https://hannah-hwang.github.io/reading-notes/read02)
+- [Class 3 Notes](https://hannah-hwang.github.io/reading-notes/read03)
+- [Class 4 Notes](https://hannah-hwang.github.io/reading-notes/read04)
+- [Class 5 Notes](https://hannah-hwang.github.io/reading-notes/read05)
+- [Class 6 Notes](https://hannah-hwang.github.io/reading-notes/read06)
+- [Class 7 Notes](https://hannah-hwang.github.io/reading-notes/read07)
+- [Class 8 Notes](https://hannah-hwang.github.io/reading-notes/read08)
+
+### Code 201 - Foundations of Software Development
 
 - [Class 1 Notes](https://hannah-hwang.github.io/reading-notes/class-01)
 - [Class 2 Notes](https://hannah-hwang.github.io/reading-notes/class-02)
@@ -29,18 +40,12 @@
 - [Class 13 Notes](https://hannah-hwang.github.io/reading-notes/class-13)
 - [Class 14 Notes](https://hannah-hwang.github.io/reading-notes/class-14)
 - [Class 14 Notes - Psychological Safety](https://hannah-hwang.github.io/reading-notes/class-14-psychsafety)
-- [Class 15 Notes]
 
-### Code 102 Reading Notes
+### Code 301 - Intermediate Software Development
 
-- [Class 1 Notes](https://hannah-hwang.github.io/reading-notes/read01)
-- [Class 2 Notes](https://hannah-hwang.github.io/reading-notes/read02)
-- [Class 3 Notes](https://hannah-hwang.github.io/reading-notes/read03)
-- [Class 4 Notes](https://hannah-hwang.github.io/reading-notes/read04)
-- [Class 5 Notes](https://hannah-hwang.github.io/reading-notes/read05)
-- [Class 6 Notes](https://hannah-hwang.github.io/reading-notes/read06)
-- [Class 7 Notes](https://hannah-hwang.github.io/reading-notes/read07)
-- [Class 8 Notes](https://hannah-hwang.github.io/reading-notes/read08)
+- [Class 1 Notes]
+- [Class 2 Notes]
+- [Class 3 Notes]
 
 Link to my [GitHub](https://github.com/hannah-hwang)
 
