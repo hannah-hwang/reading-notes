@@ -43,7 +43,7 @@
 
 ### Code 301 - Intermediate Software Development
 
-- [Class 1 Notes]
+- [Class 1 Notes](https://hannah-hwang.github.io/reading-notes/reading01)
 - [Class 2 Notes]
 - [Class 3 Notes]
 
