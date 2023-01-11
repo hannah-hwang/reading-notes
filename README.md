@@ -44,7 +44,7 @@
 ### Code 301 - Intermediate Software Development
 
 - [Class 1 Notes](https://hannah-hwang.github.io/reading-notes/reading01)
-- [Class 2 Notes]
+- [Class 2 Notes](https://hannah-hwang.github.io/reading-notes/reading02)
 - [Class 3 Notes]
 
 Link to my [GitHub](https://github.com/hannah-hwang)
