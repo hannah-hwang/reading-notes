@@ -49,6 +49,7 @@
 - [Class 4 Notes](https://hannah-hwang.github.io/reading-notes/reading04)
 - [Class 5 Notes](https://hannah-hwang.github.io/reading-notes/reading05)
 - [Class 6 Notes](https://hannah-hwang.github.io/reading-notes/reading06)
+- [Class 7 Notes](https://hannah-hwang.github.io/reading-notes/reading07)
 
 Link to my [GitHub](https://github.com/hannah-hwang)
 
