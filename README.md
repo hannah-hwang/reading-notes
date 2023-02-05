@@ -43,14 +43,15 @@
 
 ### Code 301 - Intermediate Software Development
 
-- [Class 1 Notes](https://hannah-hwang.github.io/reading-notes/reading01)
-- [Class 2 Notes](https://hannah-hwang.github.io/reading-notes/reading02)
-- [Class 3 Notes](https://hannah-hwang.github.io/reading-notes/reading03)
-- [Class 4 Notes](https://hannah-hwang.github.io/reading-notes/reading04)
-- [Class 5 Notes](https://hannah-hwang.github.io/reading-notes/reading05)
-- [Class 6 Notes](https://hannah-hwang.github.io/reading-notes/reading06)
-- [Class 7 Notes](https://hannah-hwang.github.io/reading-notes/reading07)
-- [Class 8 Notes](https://hannah-hwang.github.io/reading-notes/reading08)
+- [Class 1 Notes](https://hannah-hwang.github.io/reading-notes/301/reading01)
+- [Class 2 Notes](https://hannah-hwang.github.io/reading-notes/301/reading02)
+- [Class 3 Notes](https://hannah-hwang.github.io/reading-notes/301/reading03)
+- [Class 4 Notes](https://hannah-hwang.github.io/reading-notes/301/reading04)
+- [Class 5 Notes](https://hannah-hwang.github.io/reading-notes/301/reading05)
+- [Class 6 Notes](https://hannah-hwang.github.io/reading-notes/301/reading06)
+- [Class 7 Notes](https://hannah-hwang.github.io/reading-notes/301/reading07)
+- [Class 8 Notes](https://hannah-hwang.github.io/reading-notes/301/reading08)
+- [Class 9 Notes](https://hannah-hwang.github.io/reading-notes/301/reading09)
 
 Link to my [GitHub](https://github.com/hannah-hwang)
 
