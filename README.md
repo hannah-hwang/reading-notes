@@ -54,6 +54,7 @@
 - [Class 9 Notes](https://hannah-hwang.github.io/reading-notes/301/reading09)
 - [Class 10 Notes](https://hannah-hwang.github.io/reading-notes/301/reading10)
 - [Class 11 Notes](https://hannah-hwang.github.io/reading-notes/301/reading11)
+- [Class 12 Notes](https://hannah-hwang.github.io/reading-notes/301/reading12)
 
 Link to my [GitHub](https://github.com/hannah-hwang)
 
